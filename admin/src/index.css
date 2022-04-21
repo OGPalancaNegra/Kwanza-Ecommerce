@@ -1,0 +1,108 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 0;
+}
+
+input,
+button, 
+textarea,
+select,
+li,
+option {
+    font: inherit
+}
+
+img, 
+picture {
+    max-width: 100%;
+    display: block;
+}
+
+
+/* Positioning Classes */
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+.grid {
+    display: grid;
+}
+
+.center {
+    margin: auto;
+}
+
+.vert-center {
+    align-items: center;
+}
+
+.horz-center {
+    justify-content: center;
+}
+
+.sp-btw {
+    justify-content: space-between;
+}
+
+/* Size Classes */
+.xsm-text {
+    font-size: 8px;
+}
+
+.sm-text {
+    font-size: 12px;
+}
+
+.md-text {
+    font-size: 16px;
+}
+
+.lg-text {
+    font-size: 20px;
+}
+
+.xlg-text {
+    font-size: 24px;
+}
+
+.xxlg-text {
+    font-size: 28px;
+}
+
+.xxxlg-text {
+    font-size: 32px;
+}
+
+/* Gap */
+.xsm-gap {
+    gap: 5px;
+}
+
+.sm-gap {
+    gap: 10px;
+}
+
+.md-gap {
+    gap:15px;
+}
+
+.lg-gap {
+    gap:20px;
+}
+
+.xlg-gap {
+    gap:25px;
+}
+
+/* horz-margin */

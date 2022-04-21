@@ -1,0 +1,222 @@
+*, 
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: 0;
+  text-decoration: none;
+  list-style: none;
+}
+
+
+/* Postion Utility Classes */
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.grid {
+  display: grid;
+}
+
+.sp-btw {
+  justify-content: space-between;
+}
+
+.vert-center {
+  align-items: center;
+}
+
+.horz-center {
+  justify-content: center;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.center-el {
+  margin: auto;
+}
+
+.center-el-horz {
+  margin: 0px auto;
+} 
+
+.center-el-vert {
+  margin: 0px auto;
+}
+
+.relative {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
+}
+
+/* Size Utitlity Classes */
+
+/* Size Classes */
+.xsm-text {
+  font-size: 8px;
+}
+
+.sm-text {
+  font-size: 12px;
+}
+
+.md-text {
+  font-size: 16px;
+}
+
+.lg-text {
+  font-size: 20px;
+}
+
+.xlg-text {
+  font-size: 24px;
+}
+
+.xxlg-text {
+  font-size: 28px;
+}
+
+.xxxlg-text {
+  font-size: 32px;
+}
+
+/* Gap */
+.xsm-gap {
+  gap: 5px;
+}
+
+.sm-gap {
+  gap: 10px;
+}
+
+.md-gap {
+  gap:15px;
+}
+
+.lg-gap {
+  gap:20px;
+}
+
+.xlg-gap {
+  gap:25px;
+}
+
+/* Margin and Padding */
+
+.xsm-vert-margin {
+  margin: 5px 0px;
+}
+
+.sm-vert-margin {
+  margin: 10px 0px;
+}
+
+.md-vert-margin {
+  margin: 15px 0px;
+}
+
+.lg-vert-margin {
+  margin: 20px 0px;
+}
+
+.xlg-vert-margin {
+  margin: 25px 0px;
+}
+
+
+.xsm-padd {
+  padding: 5px;
+}
+
+.sm-padd {
+  padding: 10px;
+}
+
+.md-padd {
+  padding: 15px;
+}
+
+.xsm-vert-padd {
+  padding-top: 5px;
+  padding-bottom:5px ;
+}
+
+.sm-vert-padd {
+  padding-top: 10px;
+  padding-bottom:10px ;
+}
+
+.md-horz-padd {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.md-padd {
+  padding: 15px;
+}
+
+.lg-padd {
+  padding: 20px;
+}
+
+.xlg-padd {
+  padding: 25px;
+}
+
+
+.sm-top-margin {
+  margin: 5px 0 0 0;
+}
+
+.xsm-bottom-margin {
+  margin: 0 0 5px 0;
+}
+
+.sm-bottom-margin {
+  margin: 0 0 10px 0;
+}
+
+.md-bottom-margin {
+  margin: 0 0 15px 0;
+}
+
+.lg-bottom-margin {
+  margin: 0 0 20px 0;
+}
+
+input,
+button, 
+textarea,
+select,
+li,
+option {
+    font: inherit
+}
+
+img, 
+picture {
+    max-width: 100%;
+    display: block;
+}
+
+
+.black-border {
+  border: 1px solid black;
+}
+
+.light-grey-border {
+  border: 1px solid #F0F0F0;
+}
