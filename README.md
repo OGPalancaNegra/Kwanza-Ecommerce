@@ -35,3 +35,20 @@ every order made
 
 ![order_page_completeed](https://user-images.githubusercontent.com/56201348/164527353-4af7dec3-e296-4b0d-8840-c2d4a4d9cbb7.jpg)
 
+
+# Client Images
+
+![home_page_1](https://user-images.githubusercontent.com/56201348/164528240-a8f61051-00c0-472f-9698-80969f430c85.jpg)
+![home_page_2](https://user-images.githubusercontent.com/56201348/164528486-8a7ecdf8-d328-4e7d-a636-08c0756537d1.jpg)
+![home_page_3](https://user-images.githubusercontent.com/56201348/164528499-c5810d9a-d3c9-41ad-a95e-bc55fe80153b.jpg)
+![home_page_4](https://user-images.githubusercontent.com/56201348/164528508-1e0f404c-54bc-4f03-8e31-0a115e6818e7.jpg)
+
+
+![product_list](https://user-images.githubusercontent.com/56201348/164528541-de52ba5d-6dbe-426c-91d0-0ccfbc6c6869.jpg)
+![product_page](https://user-images.githubusercontent.com/56201348/164528557-ac313677-97e1-4aa1-8f55-ca9ebaae3587.jpg)
+![checkout-page](https://user-images.githubusercontent.com/56201348/164528566-cd4feaba-da67-41bb-8ab0-f3fa1052ff51.jpg)
+
+
+
+
+
